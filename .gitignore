@@ -1,0 +1,12 @@
+# Terraform working directory
+.terraform/
+
+# Lokale Terraform-Plan-Dateien
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+crash.log
+
+# Optional: Backup-Dateien
+*.backup
+*.log
